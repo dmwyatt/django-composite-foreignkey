@@ -13,4 +13,4 @@ Installation
 
 
 
-After installation, the :doc:`quickstart` will get you on your way to using ``django-bootstrap3``.
+After installation, the :doc:`quickstart` will get you on your way to using ``django-composite-foreignkey``.
